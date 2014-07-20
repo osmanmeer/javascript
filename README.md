@@ -1,1 +1,1 @@
-javascript calc
+This is a javascript calculator.
